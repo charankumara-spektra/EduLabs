@@ -39,6 +39,7 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 4. You can review and change answers before you submit.
 5. Passing score: [60%]. Results are scored automatically by the in-portal panel.
 
+
 ## Capability Area 1: Theoretical Knowledge
 
 A short quiz covering Fred Dispense Plus fundamentals. Answer all questions below.
