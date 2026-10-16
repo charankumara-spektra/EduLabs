@@ -47,6 +47,8 @@ A short quiz covering Fred Dispense Plus fundamentals. Answer all questions belo
 
 Please answer all questions:
 
+<question source="labguidepage0016B2lLeGA" />
+
 
 
 ## Success Criteria
